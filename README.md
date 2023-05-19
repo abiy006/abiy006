@@ -23,6 +23,30 @@ const abiyAman = {
   funFacts: ['I have 1+ years of remote work experience with devs from all over the world', 'my tiny chihuahua dog is ready to woof at the right offer']
 }
 ```
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://github.com/AbelG101">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,webpack,react,rails,postgres,git,bash,ai,figma,xd" />
+  </a>
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abiy-hussen-aman-194587183/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="mailto:abiyhussen@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://twitter.com/Abiy62463489"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiy006&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abiy006&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
+
+[![Abiy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abiy006&theme=gotham&area=true&hide_border=true)](https://github.com/Abiy006/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abiy006&theme=gotham)](https://git.io/streak-stats)
 
 <!--
 **abiy006/abiy006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

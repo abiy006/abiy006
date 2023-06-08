@@ -44,7 +44,7 @@ const abiyAman = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abiy006&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
-[![Abiy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abiy006&theme=gotham&area=true&hide_border=true)](https://github.com/Abiy006/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=abiy006&theme=gotham)](https://github.com/abiy006/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abiy006&theme=gotham)](https://git.io/streak-stats)
 

@@ -1,14 +1,12 @@
 <!-- ### Hi there 👋 -->
 <h2> Hi there 👋, I'm Abiy Aman <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="./Images/programmers-go-internet.gif" width="230">
+<img align='center' src="./Images/programmers-go-internet.gif" width="250">
 <p><em>Remote Full-stack web developer ready for adventure </em> <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 <!-- <h2 align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Code%20Reviewer%20at%20Microverse;Lead%20Full%20Stack%20Developer%20at%20Taybah%20Academy;Software%20Artist;Full-Stack%20Web%20Developer;BEng.%20Computer%20Engineering&font=Fira%20Code&center=true&width=800&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2> -->
 <h2 align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Full-Stack%20Web%20Developer;Senior%20system%20administrator;Bsc.%20Computer%20Science&font=Fira%20Code&center=true&width=800&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
-
-
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
